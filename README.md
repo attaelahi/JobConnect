@@ -8,19 +8,29 @@ JobConnect is a responsive and user-friendly frontend UI designed for a job boar
 
 ## Features
 Responsive design for optimal user experience on various devices
+
 Job search and filtering system
+
 Job details page with company information and job requirements
+
 User profile and resume upload (mocked API)
+
 Job bookmarking and application tracking (mocked API)
 
 ## Technologies
+
 Frontend: Next.js, React, CSS Modules
+
 UI Components: Custom-built components using CSS Modules
 
 ## Getting Started
+
 Clone the repository: git clone https://github.com/attaelahi/JobConnect.git
+
 Install dependencies: npm install or yarn install
+
 Start the development server: npm run dev or yarn dev
+
 Open the website in your browser: http://localhost:3000
 
 ## Contributing
